@@ -1,4 +1,4 @@
 # sncollege-demo
 This is my First Repositary
-<B>
+<br>
 Author- Karan
